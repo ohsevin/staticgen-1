@@ -16,5 +16,5 @@ require (
 	github.com/tj/assert v0.0.0-20190920132354-ee03d75cd160
 	github.com/tj/go-config v1.3.0
 	github.com/tj/kingpin v2.5.0+incompatible
-	golang.org/x/net v0.0.0-20190827160401-ba9fcec4b297 // indirect
+	golang.org/x/net v0.23.0 // indirect
 )
